@@ -15,7 +15,6 @@ import javafx.scene.text.Text;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
 import java.util.Objects;
-import java.util.Random;
 
 public class Place2BI extends Application {
     final double height = Screen.getPrimary().getBounds().getHeight() * 0.9;
