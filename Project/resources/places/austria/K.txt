@@ -1,0 +1,71 @@
+Wien,48.2082,16.3738
+Graz,47.0707,15.4395
+Linz,48.3064,14.2858
+Salzburg,47.8095,13.0550
+Innsbruck,47.2692,11.4041
+Klagenfurt am Wörthersee,46.6060,14.2920
+Villach,46.6111,13.8555
+Wels,48.2064,14.0359
+St. Pölten,48.2064,15.6267
+Dornbirn,47.4148,9.7416
+Wiener Neustadt,47.8193,16.2519
+Steyr,48.0350,14.4208
+Feldkirch,47.2415,9.5991
+Bregenz,47.5036,9.7468
+Klosterneuburg,48.3000,16.3000
+Krems an der Donau,48.4063,15.6206
+Leoben,47.3833,15.0944
+Baden,48.0101,16.2321
+Schwechat,48.1212,16.5000
+Braunau am Inn,48.2559,13.0105
+Tulln an der Donau,48.3302,16.1525
+Eisenstadt,47.8482,16.5373
+Bruck an der Mur,47.4469,15.2715
+Spittal an der Drau,46.7863,13.5615
+Wörgl,47.5261,12.1270
+Bad Ischl,47.7052,13.6194
+Gmunden,47.9255,13.7996
+Bad Vöslau,48.0000,16.2500
+Lienz,46.8503,12.7574
+Zell am See,47.3283,12.7943
+Velden am Wörthersee,46.6362,14.0061
+Neusiedl am See,47.9403,16.7667
+Kitzbühel,47.4431,12.3925
+Hainburg an der Donau,48.1742,16.9706
+Schladming,47.3916,13.6887
+Oberndorf bei Salzburg,47.8016,12.9914
+Melk,48.2325,15.3182
+Ybbs an der Donau,48.1762,15.1917
+Spielberg,47.2700,14.8208
+Bad Gleichenberg,46.9833,15.8833
+Mauthausen,48.2270,14.5231
+Bad Gastein,47.1100,13.1047
+Mondsee,47.8265,13.3562
+Seefeld in Tirol,47.3269,11.1865
+Mariazell,47.6323,15.3147
+Eben am Achensee,47.4024,11.8082
+Eisenerz,47.5255,14.9015
+Kaprun,47.2755,12.4171
+Sölden,46.9572,11.0224
+Werfen,47.4862,13.2212
+Laxenburg,48.0876,16.4362
+Flachau,47.3294,13.3961
+Saalbach-Hinterglemm,47.3961,12.6444
+St. Wolfgang im Salzkammergut,47.7428,13.4247
+Puchberg am Schneeberg,47.7986,15.9303
+St. Anton am Arlberg,47.1286,10.2817
+Spital am Pyhrn,47.7082,14.3917
+Mörbisch am See,47.7258,16.7033
+Podersdorf am See,47.9089,16.8519
+Zell am Ziller,47.2325,11.8907
+Bad Kleinkirchheim,46.9578,13.8060
+Ischgl,46.9974,10.2956
+Lech,47.2000,10.1417
+Gries am Brenner,47.0143,11.5257
+Petronell-Carnuntum,48.1190,16.9571
+Heiligenblut am Großglockner,47.0673,12.7842
+Krimml,47.2061,12.1712
+Dürnstein,48.4081,15.5129
+Mallnitz,47.0667,13.1993
+Hallstatt,47.6023,13.6397
+Semmering,47.5896,15.8166

@@ -1,0 +1,87 @@
+Wien,48.2083,16.3731
+Graz,47.0707,15.4395
+Linz,48.3064,14.2858
+Salzburg,47.7994,13.0430
+Innsbruck,47.2682,11.3923
+Klagenfurt am Wörthersee,46.6249,14.3050
+Villach,46.6103,13.8558
+Wels,48.1575,14.0289
+St. Pölten,48.2000,15.6333
+Dornbirn,47.4125,9.7417
+Wiener Neustadt,47.8150,16.2465
+Steyr,48.0427,14.4214
+Feldkirch,47.2333,9.6000
+Bregenz,47.5031,9.7471
+Leonding,48.2714,14.2533
+Klosterneuburg,48.3052,16.3256
+Baden,48.0050,16.2306
+Krems an der Donau,48.4092,15.6142
+Traun,48.2200,14.2333
+Wolfsberg,46.8400,14.8400
+Leoben,47.3833,15.1000
+Lustenau,47.4267,9.6583
+Amstetten,48.1228,14.8722
+Kapfenberg,47.4333,15.3000
+Hallein,47.6833,13.1000
+Schwechat,48.1333,16.4667
+Mödling,48.0833,16.2833
+Kufstein,47.5833,12.1667
+Traiskirchen,48.0167,16.2833
+Ansfelden,48.2167,14.2833
+Braunau am Inn,48.2569,13.0439
+Hohenems,47.3667,9.6833
+Saalfelden am Steinernen Meer,47.4264,12.8489
+Stockerau,48.3833,16.2167
+Tulln an der Donau,48.3333,16.0500
+Telfs,47.3000,11.0667
+Eisenstadt,47.8456,16.5233
+Bruck an der Mur,47.4167,15.2667
+Spittal an der Drau,46.8000,13.5000
+Bludenz,47.1500,9.8167
+Perchtoldsdorf,48.1167,16.2667
+Hall in Tirol,47.2833,11.5000
+Ternitz,47.7167,16.0333
+Marchtrenk,48.1833,14.1667
+Wörgl,47.4833,12.0667
+Feldkirchen in Kärnten,46.7167,14.1000
+Schwaz,47.3500,11.7000
+Wals-Siezenheim,47.8000,12.9000
+Bad Ischl,47.7167,13.6167
+Hard,47.4833,9.6833
+Korneuburg,48.3500,16.3333
+Feldbach,46.9500,15.9000
+Leibnitz,46.7833,15.5333
+Gmunden,47.9167,13.8000
+Neunkirchen,47.7167,16.0833
+Gratwein-Straßengel,47.1167,15.3667
+Vöcklabruck,48.0167,13.6500
+Knittelfeld,47.2167,14.8167
+Ried im Innkreis,48.2114,13.4889
+Bad Vöslau,47.9667,16.2167
+Hollabrunn,48.5667,16.0833
+Brunn am Gebirge,48.1000,16.2833
+Enns,48.2167,14.4833
+St. Veit an der Glan,46.7681,14.3606
+Seiersberg-Pirka,47.0000,15.4000
+Götzis,47.3333,9.6167
+Rankweil,47.2833,9.6333
+Gänserndorf,48.3500,16.7167
+Groß-Enzersdorf,48.2000,16.5500
+Lienz,46.8286,12.7694
+Mistelbach,48.5667,16.5667
+Strasshof an der Nordbahn,48.3167,16.6667
+Weiz,47.2167,15.6167
+Ebreichsdorf,47.9500,16.4000
+Gerasdorf bei Wien,48.3000,16.5000
+Deutschlandsberg,46.8153,15.2222
+St. Johann im Pongau,47.3500,13.2000
+Seekirchen am Wallersee,47.9000,13.1000
+Gleisdorf,47.1056,15.7106
+Waidhofen an der Ybbs,47.9600,14.7700
+Imst,47.2456,10.7394
+Trofaiach,47.4167,15.0000
+Völkermarkt,46.6625,14.6342
+Zwettl-Niederösterreich,48.6000,15.1667
+Bischofshofen,47.4167,13.2167
+Lauterach,47.4833,9.7333
+Zell am See,47.3252,12.7968
