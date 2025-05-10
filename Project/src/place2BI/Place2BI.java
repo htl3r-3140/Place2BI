@@ -6,27 +6,30 @@ import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.StackPane;
-import javafx.scene.layout.VBox;
+import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
+import javafx.scene.shape.Circle;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Screen;
 import javafx.stage.Stage;
+
+import java.io.IOException;
 import java.util.Objects;
 
 public class Place2BI extends Application {
-    final double height = Screen.getPrimary().getBounds().getHeight() * 0.9;
-    final double width = height * 0.8 * 16 / 9;
+    final double height = Screen.getPrimary().getBounds().getHeight() * 0.9, width = height * 0.8 * 16 / 9;
 
     @Override
-    public void start(Stage stage) {
+    public void start(Stage stage) throws IOException {
+        Place place = new Place("Project/resources/places/austria/K.txt");
+        Circle circle = new Circle(place.placeX, place.placeY, 10, Color.web("#DD0000"));
+
         VBox vBoxLeft = new VBox(createText("2.6 S", Color.WHITE, false, 30));
         vBoxLeft.setAlignment(Pos.CENTER_LEFT);
         vBoxLeft.setPrefWidth(width * 0.15);
 
-        VBox vBoxCenter = new VBox(createText("Weiden am See", Color.web("#DD0000"), true, 35));
+        VBox vBoxCenter = new VBox(createText(place.place, Color.web("#DD0000"), true, 35));
         vBoxCenter.setAlignment(Pos.CENTER);
         vBoxCenter.setPrefWidth(width * 0.6);
 
@@ -45,10 +48,10 @@ public class Place2BI extends Application {
         imageView.setPreserveRatio(true);
 
         StackPane stackPane = new StackPane(imageView, borderPane);
-        StackPane.setAlignment(borderPane, Pos.TOP_CENTER);
         StackPane.setAlignment(imageView, Pos.BOTTOM_CENTER);
+        StackPane.setAlignment(borderPane, Pos.TOP_CENTER);
 
-        stage.setScene(new Scene(stackPane, width, height));
+        stage.setScene(new Scene(new StackPane(stackPane, new Pane(circle)), width, height));
         stage.setTitle("Place2BI");
         stage.setResizable(false);
         stage.show();
